@@ -109,6 +109,18 @@
             "publisher": "Springer",
             "releaseDate": "2024-07-05",
             "url": "https://doi.org/10.1007/978-3-031-62846-7_15"
+        },
+        {
+            "name": "CamIO in the Browser: A Cross-Platform Audio Label Tool for Tactile Graphics",
+            "publisher": "ACM",
+            "releaseDate": "2025-09-21",
+            "url": "https://doi.org/10.1145/3737821.3748528"
+        },
+        {
+            "name": "Interactive Guidance for Self-Acquisition of Ultrasound Images by Hemophilic Patients",
+            "publisher": "ACM",
+            "releaseDate": "2025-09-21",
+            "url": "https://doi.org/10.1145/3737821.3748527"
         }
     ],
     "languages": [
