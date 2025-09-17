@@ -23,13 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-attending-the-medchi-summer-school-in-como",
+        },{id: "news-attending-the-medchi-summer-school-in-como",
           title: 'Attending the MedChi Summer School in Como',
+          description: "",
+          section: "News",},{id: "news-attending-the-mobilehci-2025-conference-in-sharm-el-sheikh-to-present-two-demo-papers",
+          title: 'Attending the MobileHCI 2025 Conference in Sharm El-Sheikh to present two demo papers...',
           description: "",
           section: "News",},{id: "news-the-phd-program-will-officially-begin-this-october",
           title: 'The PhD program will officially begin this October!',
