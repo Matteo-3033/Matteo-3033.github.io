@@ -5,7 +5,7 @@
         "image": "",
         "email": "matteo.manzoni2001@gmail.com",
         "phone": "+39 331 716 7048",
-        "url": "https://matteo-3033.github.io",
+        "url": "https://manzoni.di.unimi.it",
         "summary": "An Italian PhD Student in Computer Science at the University of Milan studying video game accessibility.",
         "location": {
             "city": "Milan",
@@ -45,11 +45,23 @@
             "name": "University of Milan, Milan, Italy",
             "position": "Research Assistant on the PRACTICE Project",
             "url": "https://ecare.unimi.it/pilots/practice",
-            "startDate": "2023-09-01",
+            "startDate": "2023-09",
+            "endDate": "2025-07",
             "summary": "Working as a research assistant on the PRACTICE project, at the EveryWare Lab of the University of Milan. PRACTICE is a research project to enable the remote diagnosis of joint bleedings for hemophilic patients.",
             "highlights": [
                 "Development and maintenance of the backend services used for the whole project.",
                 "Maintenance of the client application used by patients."
+            ]
+        },
+        {
+            "name": "University of Milan, Milan, Italy",
+            "position": "Teaching Assistant for the Mobile Computing university course",
+            "startDate": "2023-10",
+            "endDate": "2025-02",
+            "summary": "Worked as a teaching assistant for the university course on Mobile Computing at the University of Milan. The course covers various topics related to mobile computing, including mobile application development and mobile operating systems.",
+            "highlights": [
+                "Aiding in class preparation, conducting tutorials, and assisting students during laboratory sessions.",
+                "Addressed queries, facilitated discussions, and provided guidance on practical exercises."
             ]
         },
         {
@@ -92,6 +104,12 @@
         }
     ],
     "publications": [
+        {
+            "name": "Shared Control for Game Accessibility: Understanding Current Human Cooperation Practices to Inform the Design of Partial Automation Solutions",
+            "publisher": "ACM",
+            "releaseDate": "2026-04-13",
+            "url": "https://dl.acm.org/doi/10.1145/3772318.3791080"
+        },
         {
             "name": "MapIO: a Gestural and Conversational Interface for Tactile Maps",
             "publisher": "IEEE Access",
