@@ -32,7 +32,12 @@ ninja.data = [{
           section: "News",},{id: "news-the-phd-program-will-officially-begin-this-october",
           title: 'The PhD program will officially begin this October!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/04_chi_paper.html";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
