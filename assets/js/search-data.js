@@ -32,8 +32,8 @@ ninja.data = [{
           section: "News",},{id: "news-the-phd-program-will-officially-begin-this-october",
           title: 'The PhD program will officially begin this October!',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-shared-control-for-game-accessibility-understanding-current-human-cooperation-practices-to-inform-the-design-of-partial-automation-solutions",
+          title: 'Shared Control for Game Accessibility: Understanding Current Human Cooperation Practices to Inform the...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/04_chi_paper.html";
