@@ -10,4 +10,4 @@ Our paper, Shared Control for Game Accessibility: Understanding Current Human Co
 
 In this work, we present findings from interviews with players who use shared control solutions to play video games. We explore the challenges they encounter, the cooperation practices they adopt, and how these insights can inform the design of future partial automation systems for game accessibility.
 
-Read the paper here: https://manzoni.di.unimi.it/assets/pdf/ahmetovic2026shared.pdf
+Read the paper here: [https://manzoni.di.unimi.it/assets/pdf/ahmetovic2026shared.pdf](https://manzoni.di.unimi.it/assets/pdf/ahmetovic2026shared.pdf)
