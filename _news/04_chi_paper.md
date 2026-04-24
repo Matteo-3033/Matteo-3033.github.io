@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shared Control for Game Accessibility: Understanding Current Human Cooperation Practices to Inform the Design of Partial Automation Solutions
+title: "Shared Control for Game Accessibility: Understanding Current Human Cooperation Practices to Inform the Design of Partial Automation Solutions"
 date: 2026-04-13
 inline: false
 related_posts: false
