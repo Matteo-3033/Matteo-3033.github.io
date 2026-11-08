@@ -46,7 +46,6 @@
             "position": "Research Assistant on the PRACTICE Project",
             "url": "https://ecare.unimi.it/pilots/practice",
             "startDate": "2023-09",
-            "endDate": "2025-07",
             "summary": "Working as a research assistant on the PRACTICE project, at the EveryWare Lab of the University of Milan. PRACTICE is a research project to enable the remote diagnosis of joint bleedings for hemophilic patients.",
             "highlights": [
                 "Development and maintenance of the backend services used for the whole project.",
@@ -55,14 +54,16 @@
         },
         {
             "name": "University of Milan, Milan, Italy",
-            "position": "Teaching Assistant for the Mobile Computing university course",
+            "position": "Teaching Assistant, Mobile Computing",
             "startDate": "2023-10",
             "endDate": "2025-02",
-            "summary": "Worked as a teaching assistant for the university course on Mobile Computing at the University of Milan. The course covers various topics related to mobile computing, including mobile application development and mobile operating systems.",
-            "highlights": [
-                "Aiding in class preparation, conducting tutorials, and assisting students during laboratory sessions.",
-                "Addressed queries, facilitated discussions, and provided guidance on practical exercises."
-            ]
+            "summary": "Assisted the professor during in-class sessions of the Mobile Computing course (B.Sc. in Computer Science)."
+        },
+        {
+            "name": "University of Milan, Milan, Italy",
+            "position": "Laboratory Instructor, Distributed and Pervasive Systems",
+            "startDate": "2026-04",
+            "summary": "Teaching the laboratory module of the Distributed and Pervasive Systems course (M.Sc. in Computer Science), including designing the course projects and assessing students."
         },
         {
             "name": "Smith-Kettlewell Eye Research Institute, San Francisco, CA, USA",
@@ -101,44 +102,6 @@
             "startDate": "2020-10-01",
             "endDate": "2023-07-11",
             "score": "110/110 cum laude"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Shared Control for Game Accessibility: Understanding Current Human Cooperation Practices to Inform the Design of Partial Automation Solutions",
-            "publisher": "ACM",
-            "releaseDate": "2026-04-13",
-            "url": "https://dl.acm.org/doi/10.1145/3772318.3791080"
-        },
-        {
-            "name": "MapIO: a Gestural and Conversational Interface for Tactile Maps",
-            "publisher": "IEEE Access",
-            "releaseDate": "2025-05-01",
-            "url": "https://doi.org/10.1109/ACCESS.2025.3566286"
-        },
-        {
-            "name": "Insights on the Development of PRACTICE, A Research-Oriented Healthcare Platform",
-            "publisher": "IEEE Computer Society",
-            "releaseDate": "2024-07-24",
-            "url": "https://doi.org/10.1109/SMARTCOMP61445.2024.00085"
-        },
-        {
-            "name": "Personalized Facial Gesture Recognition for Accessible Mobile Gaming",
-            "publisher": "Springer",
-            "releaseDate": "2024-07-05",
-            "url": "https://doi.org/10.1007/978-3-031-62846-7_15"
-        },
-        {
-            "name": "CamIO in the Browser: A Cross-Platform Audio Label Tool for Tactile Graphics",
-            "publisher": "ACM",
-            "releaseDate": "2025-09-21",
-            "url": "https://doi.org/10.1145/3737821.3748528"
-        },
-        {
-            "name": "Interactive Guidance for Self-Acquisition of Ultrasound Images by Hemophilic Patients",
-            "publisher": "ACM",
-            "releaseDate": "2025-09-21",
-            "url": "https://doi.org/10.1145/3737821.3748527"
         }
     ],
     "languages": [
