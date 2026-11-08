@@ -50,7 +50,17 @@ ninja.data = [{
           section: "News",},{id: "news-attending-the-assets-2026-conference-in-porto-to-present-a-demo-paper-participate-in-the-dc-and-compete-in-the-src",
           title: 'Attending the ASSETS 2026 Conference in Porto to present a demo paper, participate...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-first-place-at-the-assets-2026-student-research-competition-and-best-demo-award",
+          title: 'First Place at the ASSETS 2026 Student Research Competition and Best Demo Award...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/07_assets_2026_awards.html";
+            },},{id: "news-evaluation-of-personalized-above-neck-gestures-for-accessible-mobile-gaming",
+          title: 'Evaluation of Personalized Above-Neck Gestures for Accessible Mobile Gaming',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/08_chi_play_2026.html";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
